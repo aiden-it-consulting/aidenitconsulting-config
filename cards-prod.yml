@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Aiden-IT-Consulting cards related PROD webhook APIs "
+  message: "Welcome to Aiden-IT-Consulting cards related PROD update hook webhook APIs "
   contactDetails:
     name: "Sylvie Asamba Card -  Product Owner"
     email: "c.sylvie.asamba@aiden-it-consulting.com"
