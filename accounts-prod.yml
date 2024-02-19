@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Aiden-IT-Consulting accounts related prod APIs "
+  contactDetails:
+    name: "Valerie Asamba Binue -  Product Owner"
+    email: "v.b.asamba@aiden-it-consulting.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

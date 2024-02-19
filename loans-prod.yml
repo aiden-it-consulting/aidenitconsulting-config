@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Aiden-IT-Consulting loans related PROD APIs "
+  contactDetails:
+    name: "Sylvie Asamba Card -  Product Owner"
+    email: "c.sylvie.asamba@aiden-it-consulting.com"
+  onCallSupport:
+    - (555) 111-1234
+    - (555) 222-1345

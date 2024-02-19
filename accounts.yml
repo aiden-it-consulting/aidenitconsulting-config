@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Aiden-IT-Consulting accounts related local APIs "
+  contactDetails:
+    name: "Tamajong Asamba Aiden - Developer"
+    email: "a.t.aiden@aiden-it-consulting.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

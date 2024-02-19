@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Aiden-IT-Consulting loans related local APIs "
+  contactDetails:
+    name: "Tamajong Asamba Aiden - Developer"
+    email: "a.t.aiden@aiden-it-consulting.com"
+  onCallSupport:
+    - (555) 111-1234
+    - (555) 222-1345
