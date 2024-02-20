@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Aiden-IT-Consulting accounts related prod APIs "
+  message: "Welcome to Aiden-IT-Consulting accounts related prod docker APIs "
   contactDetails:
     name: "Valerie Asamba Binue -  Product Owner"
     email: "v.b.asamba@aiden-it-consulting.com"
